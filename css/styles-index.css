@@ -404,6 +404,9 @@
     .ctn-image {
         height: 230px;
     }
+        .ctn-tx p{
+        margin-top: 0;
+    }
 
 
 }
@@ -621,6 +624,9 @@
 
     .ctn-image {
         height: 230px;
+    }
+        .ctn-tx p{
+        margin-top: 0;
     }
 
 }
